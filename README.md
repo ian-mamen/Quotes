@@ -1,6 +1,27 @@
-# Quote
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+## Quotes Web application. 
+Quotes is a web application that gathers inforomation about different quotes from different individuals past and present. What was said who said them and who posed the quote.
+
+Quotes made past and present. 15/06/2020
+By IAN AMUGA
+
+## Setup/Installation Requirements
+There are no installation requirments needed... with your web browser you can be abe to access the site.
+
+## Technologies Used
+The application was build mainly with 
+HTML 
+CSS 
+Javascript/Typescript
+Bootstrap
+Angular
+
+## Support and contact details
+Please reach out to me at amuga72@gmail.com for any issues encountered .
+
+## License
+MIT Copyright (c) 2020 Ian Amuga
+
 
 ## Development server
 
